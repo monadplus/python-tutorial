@@ -1,3 +1,6 @@
 .direnv
 .temp
 .venv
+*.pyo
+*.pyc
+__pycache__

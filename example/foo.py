@@ -1,0 +1,2 @@
+def surprise():
+    print("Surprise!")
